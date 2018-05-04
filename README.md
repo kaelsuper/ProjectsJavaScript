@@ -1,0 +1,2 @@
+# ProjectsJavaScript
+prime numbers
